@@ -1,0 +1,18 @@
+{
+  "EncryptedKeys": "False",
+  "AppClientID": "",
+  "ClientSecretValue": "",
+  "TenantGUID": "",
+  "TenantDomain": "kazdemos.org",
+  "LA_CustomerID": "",
+  "LA_SharedKey": "",
+  "CertificateThumb": "",
+  "OnmicrosoftURL": "M365xxxxx.onmicrosoft.com",
+  "RMSLogs": "C:\\MPARR Collector\\MPARR2\\RMSLogs\\",
+  "OutPutLogs": "C:\\MPARR Collector\\MPARR2\\Logs\\",
+  "Cloud": "Commercial",
+  "MicrosoftEntraConfig": "Not Set",
+  "ExportToEventHub": "False",
+  "EventHubNamespace": "",
+  "EventHub": ""
+}
